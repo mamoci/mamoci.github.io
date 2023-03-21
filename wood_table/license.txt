@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wood table
+* source:	https://sketchfab.com/3d-models/wood-table-0b4cc3e2b3bd4bebb96d7453b6ed721f
+* author:	al0sral0 (https://sketchfab.com/al0sral0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wood table" (https://sketchfab.com/3d-models/wood-table-0b4cc3e2b3bd4bebb96d7453b6ed721f) by al0sral0 (https://sketchfab.com/al0sral0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

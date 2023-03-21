@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Chess - Pawn
+* source:	https://sketchfab.com/3d-models/low-poly-chess-pawn-3443007498c54b5b9a31a08697a3b1b3
+* author:	marcelo.medeirossilva (https://sketchfab.com/marcelo.medeirossilva)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Chess - Pawn" (https://sketchfab.com/3d-models/low-poly-chess-pawn-3443007498c54b5b9a31a08697a3b1b3) by marcelo.medeirossilva (https://sketchfab.com/marcelo.medeirossilva) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
