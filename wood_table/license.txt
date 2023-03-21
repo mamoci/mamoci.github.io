@@ -1,11 +1,11 @@
 Model Information:
-* title:	Wood table
-* source:	https://sketchfab.com/3d-models/wood-table-0b4cc3e2b3bd4bebb96d7453b6ed721f
-* author:	al0sral0 (https://sketchfab.com/al0sral0)
+* title:	Chess Table
+* source:	https://sketchfab.com/3d-models/chess-table-b9be09a5e31c47bbae0c66a55b945b7d
+* author:	WonderfulHat (https://sketchfab.com/WonderfulHat)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Wood table" (https://sketchfab.com/3d-models/wood-table-0b4cc3e2b3bd4bebb96d7453b6ed721f) by al0sral0 (https://sketchfab.com/al0sral0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Chess Table" (https://sketchfab.com/3d-models/chess-table-b9be09a5e31c47bbae0c66a55b945b7d) by WonderfulHat (https://sketchfab.com/WonderfulHat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
