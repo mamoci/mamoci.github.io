@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Chess - Rook
+* source:	https://sketchfab.com/3d-models/low-poly-chess-rook-cbd416e785f64648bff3675fd45b3594
+* author:	marcelo.medeirossilva (https://sketchfab.com/marcelo.medeirossilva)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Chess - Rook" (https://sketchfab.com/3d-models/low-poly-chess-rook-cbd416e785f64648bff3675fd45b3594) by marcelo.medeirossilva (https://sketchfab.com/marcelo.medeirossilva) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

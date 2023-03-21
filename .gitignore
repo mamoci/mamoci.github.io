@@ -1,2 +1,4 @@
-.DS_Store
-Thumbs.db
+examples
+node_modules
+chess_pieces
+chess-board-v2
