@@ -16,7 +16,7 @@
   Los atributos deben darse por vertice asi que necesitamos 8x3=24 vertices pues
   cada vertice tiene 3 atributos de normal, color y uv al ser compartido por 3 caras. 
 
-  @author rvivo@upv.es (c) Libre para fines docentes
+  @author Maria Moreno
 */
 
 import * as THREE from "../lib/three.module.js";
