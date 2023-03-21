@@ -237,7 +237,7 @@ function loadTable() {
   var loader = new GLTFLoader();
   loader.load("wood_table/scene.gltf", function (gltf) {
     gltf.scene.position.set(5, 5.5, 3.5);
-    gltf.scene.scale.set(1, 1, 1);
+    gltf.scene.scale.set(0.5, 0.5, 0.5);
     gltf.scene.traverse((o) => {
       if (o.isObject3D) o.castShadow = o.receiveShadow = true;
     });
