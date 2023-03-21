@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chess Table
+* source:	https://sketchfab.com/3d-models/chess-table-b9be09a5e31c47bbae0c66a55b945b7d
+* author:	WonderfulHat (https://sketchfab.com/WonderfulHat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chess Table" (https://sketchfab.com/3d-models/chess-table-b9be09a5e31c47bbae0c66a55b945b7d) by WonderfulHat (https://sketchfab.com/WonderfulHat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
