@@ -231,58 +231,13 @@ function loadPawns(material, row) {
   }
 }
 
-function loadPairs(piece, offset) {
-  loadPiece(piece, new THREE.Vector3(0 + offset, tableHeight, 0), greyMaterial);
 
-  loadPiece(piece, new THREE.Vector3(7 - offset, tableHeight, 0), greyMaterial);
-
-  loadPiece(
-    piece,
-    new THREE.Vector3(0 + offset, tableHeight, 7),
-    whiteMaterial
-  );
-
-  loadPiece(
-    piece,
-    new THREE.Vector3(7 - offset, tableHeight, 7),
-    whiteMaterial
-  );
-}
-
-function loadTimer() {
-  var loader = new GLTFLoader();
-  loader.load("chess_timer/scene.gltf", function (gltf) {
-    gltf.scene.position.set(-2, tableHeight, 3.5);
-    gltf.scene.rotation.y = -Math.PI / 2;
-    gltf.scene.name = "timer";
-    const material = mapTexture("chess_timer/textures/lambert4SG_diffuse.png");
-    gltf.scene.traverse((o) => {
-      if (o.isMesh) o.material = material;
-      if (o.isObject3D) o.castShadow = o.receiveShadow = true;
-    });
-    scene.add(gltf.scene);
-    objects.push(gltf.scene);
-  });
-}
-
-function loadKnights() {
-  let knightPath = "lowpolychess/knight/scene.gltf";
-  //blacks
-  loadPiece(knightPath, new THREE.Vector3(1, tableHeight, 0), greyMaterial);
-  loadPiece(knightPath, new THREE.Vector3(6, tableHeight, 0), greyMaterial);
-
-  //whites
-  loadRotatedPiece(knightPath, new THREE.Vector3(1, tableHeight, 7), whiteMaterial);
-  loadRotatedPiece(knightPath, new THREE.Vector3(6, tableHeight, 7), whiteMaterial);
-
-
-}
 
 function loadTable() {
   var loader = new GLTFLoader();
   loader.load("wood_table/scene.gltf", function (gltf) {
     gltf.scene.position.set(5, 5.5, 3.5);
-    gltf.scene.scale.set(10, 10, 10);
+    gltf.scene.scale.set(1, 1, 1);
     gltf.scene.traverse((o) => {
       if (o.isObject3D) o.castShadow = o.receiveShadow = true;
     });
@@ -293,42 +248,13 @@ function loadTable() {
 function loadPieces() {
   loadPawns(greyMaterial, 1);
   loadPawns(whiteMaterial, 6);
-
-  //rooks knights & bishops
-  loadPairs("lowpolychess/rook/scene.gltf", 0);
-  loadKnights();
-  loadPairs("lowpolychess/bishop/scene.gltf", 2);
-
-
-
-  //queens
-  loadPiece(
-    "lowpolychess/queen/scene.gltf",
-    new THREE.Vector3(4, tableHeight, 0),
-    greyMaterial
-  );
-  loadPiece(
-    "lowpolychess/queen/scene.gltf",
-    new THREE.Vector3(3, tableHeight, 7),
-    whiteMaterial
-  );
-
-  //kings
-  loadPiece(
-    "lowpolychess/king/scene.gltf",
-    new THREE.Vector3(3, tableHeight, 0),
-    greyMaterial
-  );
-
-  loadPiece(
-    "lowpolychess/king/scene.gltf",
-    new THREE.Vector3(4, tableHeight, 7),
-    whiteMaterial
-  );
+  loadPawns(greyMaterial, 0);
+  loadPawns(whiteMaterial, 7);
+ 
 }
 
 function loadWorld() {
-  loadTimer();
+  
   loadTable();
   createRoom();
 
